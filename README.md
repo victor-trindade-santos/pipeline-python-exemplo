@@ -24,6 +24,12 @@ atividade-git-pipeline/
 ````
 
 
+
+
+
+
+
+
 ## 📚 Referências
 
 * [Documentação oficial do GitHub Actions](https://docs.github.com/actions)
